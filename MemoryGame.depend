@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653251321 source:d:\memorygame\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdlib.h>
+	<map>
+	<time.h>
+	<iostream>
+
