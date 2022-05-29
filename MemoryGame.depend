@@ -1,9 +1,22 @@
 # depslib dependency file v1.0
-1653251321 source:d:\memorygame\main.cpp
+1653837123 source:d:\memorygame - copy\main.cpp
 	<SDL.h>
 	<SDL_image.h>
+	<SDL_mixer.h>
+	<string>
+	<iostream>
+	"SDL_Manager.h"
 	<stdlib.h>
 	<map>
 	<time.h>
-	<iostream>
+
+1653831177 source:d:\memorygame - copy\sdl_manager.cpp
+	"SDL_Manager.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+
+1653831077 d:\memorygame - copy\sdl_manager.h
+	<SDL.h>
 

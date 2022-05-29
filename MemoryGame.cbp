@@ -34,6 +34,8 @@
 		<Unit filename="MemoryGame.cbp" />
 		<Unit filename="SDL2.dll" />
 		<Unit filename="SDL2_image.dll" />
+		<Unit filename="SDL_Manager.cpp" />
+		<Unit filename="SDL_Manager.h" />
 		<Unit filename="libjpeg-9.dll" />
 		<Unit filename="libpng16-16.dll" />
 		<Unit filename="libtiff-5.dll" />
