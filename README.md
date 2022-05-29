@@ -1,6 +1,6 @@
 # MemoryGame
 
-1. Hướng dẫn cài đặt với IDE CodeBlocks: 
+# 1. Hướng dẫn cài đặt với IDE CodeBlocks: 
    + B1: Vào Command Prompt gõ: git clone https://github.com/NguyenOanhy/MemoryGame.git
    + B2: Mở file MemoryGame.cbp
    + B3: 
@@ -10,11 +10,11 @@
    + B4: Nhấn biểu tượng Build and run trên màn hình
    + Hoặc: Nhấn vào mục MemoryGame.exe để chơi trực tiếp
 
-2. Mô tả chung về trò chơi:
+# 2. Mô tả chung về trò chơi:
    + Game lật cặp hình giống nhau
    + Game có 8 cặp hình khác nhau tạo thành 4x4 ô hình
 
-3. Mô tả các chức năng đã cài đặt:
+# 3. Mô tả các chức năng đã cài đặt:
    + Cài đặt menu với hai mục: play, exit.
    + Sắp xếp các cặp hình ngẫu nhiên
    + Khi mới bắt đầu chơi, các hình sẽ hiện trong một thời gian ngắn rồi ẩn đi
@@ -23,12 +23,12 @@
       - Nếu cặp hình khớp thì ẩn cặp hình đi
    + Video minh họa: https://youtu.be/2lu5fMoEZW0
 
-4. Các kỹ thuật lập trình được sử dụng:
+# 4. Các kỹ thuật lập trình được sử dụng:
    + Sử dụng mảng 1 chiều, 2 chiều, map;
    + Sử dụng hàm rand() để sắp xếp các hình ngẫu nhiện;
    + Sử dụng thư viện đồ họa SDL2, SDL2_image, SDL2_mixer;
 
-5. Kết luận: Game chưa thực sự hoàn thiện nhưng đã có các chức năng cơ bản. Sau khi hoàn thiện chương trình, em tăng khả năng code một chút, có kiến thức nền tảng cơ bản về lập trình game và xử lý hiệu ứng...
+# 5. Kết luận: Game chưa thực sự hoàn thiện nhưng đã có các chức năng cơ bản. Sau khi hoàn thiện chương trình, em tăng khả năng code một chút, có kiến thức nền tảng cơ bản về lập trình game và xử lý hiệu ứng...
    + Hướng phát triển:
       - Được chọn chế độ từ dễ (4x4 ô), trung bình (6x6 ô) đến khó (8x8 ô)
       - Có giới hạn thời gian cho game
