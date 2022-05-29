@@ -28,7 +28,8 @@
    + Sử dụng hàm rand() để sắp xếp các hình ngẫu nhiện;
    + Sử dụng thư viện đồ họa SDL2, SDL2_image, SDL2_mixer;
 
-# 5. Kết luận: Game chưa thực sự hoàn thiện nhưng đã có các chức năng cơ bản. Sau khi hoàn thiện chương trình, em tăng khả năng code một chút, có kiến thức nền tảng cơ bản về lập trình game và xử lý hiệu ứng...
+# 5. Kết luận và nhận xét: 
+   + Game chưa thực sự hoàn thiện nhưng đã có các chức năng cơ bản. Sau khi hoàn thiện chương trình, em tăng khả năng code một chút, có kiến thức nền tảng cơ bản về        lập trình game và xử lý hiệu ứng...
    + Hướng phát triển:
       - Được chọn chế độ từ dễ (4x4 ô), trung bình (6x6 ô) đến khó (8x8 ô)
       - Có giới hạn thời gian cho game
