@@ -28,9 +28,9 @@
    + Video minh họa: https://youtu.be/2lu5fMoEZW0
 
 ## 4. Các kỹ thuật lập trình được sử dụng:
-   + Sử dụng mảng 1 chiều, 2 chiều, map
-   + Sử dụng hàm rand() để sắp xếp các hình ngẫu nhiện
-   + Sử dụng thư viện đồ họa SDL2, SDL2_image, SDL2_mixer
+   + Sử dụng mảng 1 chiều, 2 chiều để ghi nhớ vị trí các hình
+   + Sử dụng map, hàm rand() để sắp xếp các hình ngẫu nhiện
+   + Sử dụng thư viện đồ họa SDL2, SDL2_image cho hình ảnh, SDL2_mixer cho âm thanh
 
 ## 5. Kết luận và nhận xét: 
    + Game chưa thực sự hoàn thiện nhưng đã có các chức năng cơ bản. Sau khi viết xong chương trình, em cải thiện khả năng code một chút, có kiến thức nền tảng cơ bản về lập trình game và xử lý hiệu ứng...
